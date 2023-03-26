@@ -1,0 +1,25 @@
+
+
+.movies{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+
+.movie {
+    background-color: #200048;
+    padding: 2.4rem;
+    width: 50rem;
+    border-radius: 11px;
+}
+
+.movie h2{
+    color: #F6E306;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+.movie p {
+    color: #fff;
+}

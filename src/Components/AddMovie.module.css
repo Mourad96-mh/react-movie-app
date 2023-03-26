@@ -1,0 +1,30 @@
+
+.form {
+    max-width: 70rem;
+    margin: 2rem auto;
+    background-color: #fff;
+    padding: 4.3rem;
+    border-radius: 11px;
+}
+
+.form-control {
+    font-size: 1.8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 1.8rem;
+    color: #333;
+}
+
+input, textarea {
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding: 0.8rem 1.6rem;
+    border: 1px solid #aaa;
+    border-radius: 9px;
+}
+
+.form-actions{
+    text-align: center;
+}
